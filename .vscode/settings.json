@@ -1,0 +1,18 @@
+{
+  "files.exclude": {
+    "node_modules": true,
+    "public": true,
+    ".vscode": true,
+    ".gitignore": true,
+    "package.json": true,
+    "package-lock.json": true,
+    "yarn.lock": true,
+    "yarn-error.log": true,
+    "prettier.config.js": true,
+    "tsconfig.json": true,
+    "ormconfig.json": true,
+    ".eslintignore": true,
+    // ".eslintrc.json": true,
+    ".editorconfig": true,
+  }
+}
